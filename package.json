@@ -1,16 +1,16 @@
 {
-  "name": "simple",
+  "name": "test2",
   "version": "1.0.0",
-  "description": "a simple demo",
+  "description": "test demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cpm-cli/simple.git"
+    "url": "git+https://github.com/cpm-cli/demo2.git"
   },
-  "author": "",
+  "author": "chenpengmin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cpm-cli/simple/issues"
